@@ -26,7 +26,7 @@ export const invitee = (() => {
 
         name.disabled = true;
 
-        const btn = util.disableButton(button);
+        // const btn = util.disableButton(button);
 
         const response = await request(HTTP_POST, '/api/invitee')
             .token(session.getToken())
@@ -49,7 +49,7 @@ export const invitee = (() => {
                 }
             });
 
-        btn.restore();
+        // btn.restore();
 
         if (!response || response.code !== 201) {
             return;
