@@ -92,3 +92,10 @@ footer {
     object-fit: cover;
     mask-image: linear-gradient(to bottom, black, black, black, black, black, transparent);
 }
+
+.carousel-item img {
+    object-fit: cover;
+    width: 100%;
+    height: 400px;
+  }
+  
