@@ -26,9 +26,9 @@
   <meta
     property="og:keywords"
     content="undangan, wedding, undangan digital, undangan online, wedding invitation, template undangan, template undangan pernikahan, undangan pernikahan, template undangan online, wedding invitation github, template website, template website undangan pernikahan" />
-  <meta property="og:image" content="./assets/images/munola.png" />
-  <meta property="og:image:secure_url" content="./assets/images/munola.png" />
-  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image" content="./assets/images/munola.webp" />
+  <meta property="og:image:secure_url" content="./assets/images/munola.webp" />
+  <meta property="og:image:type" content="image/webp" />
   <meta
     property="og:image:alt"
     content="Munola - Munawir Ola | Vinni dan Fikri" />
@@ -207,7 +207,7 @@
     tabindex="0">
     <!-- Home -->
     <section id="home" class="position-relative overflow-hidden p-0 m-0">
-      <img src="./assets/images/munola.png" alt="bg" class="bg-cover-home" />
+      <img src="./assets/images/munola.webp" alt="bg" class="bg-cover-home" />
 
       <div class="position-relative text-center pt-4 pb-0 px-0 m-0">
         <h1 style="font-size: 2rem">Undangan Pernikahan</h1>
@@ -215,7 +215,7 @@
         <div class="py-4">
           <div class="img-crop border border-3 border-light shadow mx-auto">
             <img
-              src="./assets/images/munola.png"
+              src="./assets/images/munola.webp"
               alt="bg"
               onclick="util.modal(this)" />
           </div>
@@ -308,7 +308,7 @@
             <div
               class="img-crop border border-3 border-light shadow my-4 mx-auto">
               <img
-                src="./assets/images/ola.png"
+                src="./assets/images/ola.webp"
                 alt="cewe"
                 onclick="util.modal(this)" />
             </div>
@@ -358,7 +358,7 @@
             <div
               class="img-crop border border-3 border-light shadow my-4 mx-auto">
               <img
-                src="./assets/images/fikri.png"
+                src="./assets/images/fikri.webp"
                 alt="cowo"
                 onclick="util.modal(this)" />
             </div>
@@ -432,7 +432,7 @@
       <div class="row">
         <div class="col-md-4 mb-4">
           <div class="card h-100 d-flex flex-column">
-            <img src="./assets/images/galeri/malay/potret_munola%20(15).jpg" class="card-img-top" alt="Foto Bertemu">
+            <img src="./assets/images/galeri/malay/potret_munola%20(15).webp" class="card-img-top" alt="Foto Bertemu">
             <div class="card-body d-flex flex-column">
               <h5 class="card-title">Awal Bertemu</h5>
               <p class="card-text">
@@ -446,7 +446,7 @@
         </div>
         <div class="col-md-4 mb-4">
           <div class="card h-100 d-flex flex-column">
-            <img src="./assets/images/galeri/blackwhite/potret_munola%20(1).jpg" class="card-img-top" alt="Foto Pra Nikah">
+            <img src="./assets/images/galeri/blackwhite/potret_munola%20(1).webp" class="card-img-top" alt="Foto Pra Nikah">
             <div class="card-body d-flex flex-column">
               <h5 class="card-title">Menjalin Hubungan</h5>
               <p class="card-text">
@@ -460,7 +460,7 @@
         </div>
         <div class="col-md-4 mb-4">
           <div class="card h-100 d-flex flex-column">
-            <img src="./assets/images/galeri/malay/potret_munola%20(12).jpg" class="card-img-top" alt="Foto Pra Menikah">
+            <img src="./assets/images/galeri/malay/potret_munola%20(12).webp" class="card-img-top" alt="Foto Pra Menikah">
             <div class="card-body d-flex flex-column">
               <h5 class="card-title">Menikah</h5>
               <p class="card-text">
@@ -654,7 +654,7 @@
               <?php for ($i = 0; $i < 15; $i++): ?>
                 <div class="carousel-item <?= $i === 0 ? 'active' : '' ?>">
                   <img
-                    src="./assets/images/galeri/blackwhite/potret_munola%20(<?= $i + 1; ?>).jpg"
+                    src="./assets/images/galeri/blackwhite/potret_munola%20(<?= $i + 1; ?>).webp"
                     alt="image <?= $i + 1; ?>"
                     class="d-block w-100"
                     onclick="util.modal(this)" />
@@ -709,7 +709,7 @@
               <?php for ($i = 0; $i < 15; $i++): ?>
                 <div class="carousel-item <?= $i === 0 ? 'active' : '' ?>">
                   <img
-                    src="./assets/images/galeri/malay/potret_munola%20(<?= $i + 1; ?>).jpg"
+                    src="./assets/images/galeri/malay/potret_munola%20(<?= $i + 1; ?>).webp"
                     alt="image <?= $i + 1; ?>"
                     class="d-block w-100"
                     onclick="util.modal(this)" />
@@ -940,7 +940,7 @@
 
         <div
           class="img-crop border border-3 border-light shadow mb-4 mx-auto">
-          <img src="./assets/images/munola.png" alt="background" />
+          <img src="./assets/images/munola.webp" alt="background" />
         </div>
 
         <h2 style="font-size: 2.5rem; font-weight: 500">Vinni &amp; Fikri</h2>
@@ -1025,7 +1025,7 @@
             class="d-flex justify-content-center align-items-center"
             style="height: 100%">
             <img
-              src="./assets/images/munola.png"
+              src="./assets/images/munola.webp"
               class="img-fluid w-100 rounded-4"
               alt="image"
               id="show-modal-image" />
