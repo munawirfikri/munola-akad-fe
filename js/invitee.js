@@ -24,7 +24,7 @@ export const invitee = (() => {
             return;
         }
 
-        name.disabled = true;
+        // name.disabled = true;
 
         // const btn = util.disableButton(button);
 
