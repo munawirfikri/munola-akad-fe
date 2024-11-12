@@ -940,7 +940,7 @@
 
         <div
           class="img-crop border border-3 border-light shadow mb-4 mx-auto">
-          <img src="./assets/images/munola.webp" alt="background" />
+          <img loading="lazy" src="./assets/images/munola.webp" alt="background" />
         </div>
 
         <h2 style="font-size: 2.5rem; font-weight: 500">Vinni &amp; Fikri</h2>
