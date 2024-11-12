@@ -207,7 +207,7 @@
     tabindex="0">
     <!-- Home -->
     <section id="home" class="position-relative overflow-hidden p-0 m-0">
-      <img loading="lazy" src="./assets/images/munola.webp" alt="bg" class="bg-cover-home" />
+      <img src="./assets/images/munola.webp" alt="bg" class="bg-cover-home" />
 
       <div class="position-relative text-center pt-4 pb-0 px-0 m-0">
         <h1 style="font-size: 2rem">Undangan Pernikahan</h1>
