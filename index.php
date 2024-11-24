@@ -467,7 +467,7 @@
                 <b>2024</b> - Singkat cerita, Fikri dan Vinni terpisah jarak selama dua tahun karena Fikri memutuskan memulai karier IT-nya di luar Pulau Sumatera. Hubungan jarak jauh tidak menjadi hambatan; dengan niat tulus untuk meraih ridha Allah, Vinni dan Fikri memantapkan hati untuk melangkah ke jenjang hidup yang baru.
               </p>
               <div class="mt-auto">
-                <p class="card-text"><small class="text-muted">Lokasi: Jl. Mawar, Gg. Dahlia, Tanjung Palas, Dumai Timur, Dumai City, Riau 28816</small></p>
+                <p class="card-text"><small class="text-muted">Lokasi: Jl. Makmur, Gg. Dahlia, Tanjung Palas, Dumai Timur, Dumai City, Riau 28816</small></p>
               </div>
             </div>
           </div>
@@ -581,7 +581,7 @@
                 class="btn btn-outline-light btn-sm rounded-pill shadow-sm mb-2 px-3"><i class="fa-solid fa-map-location-dot me-2"></i>Peta Menuju
                 Kediaman Mempelai Wanita</a>
               <p class="mb-0 mt-1 mx-1 pb-4" style="font-size: 0.9rem">
-                Jl. Mawar, Gg. Dahlia, Tanjung Palas, Dumai Timur, Dumai City,
+                Jl. Makmur, Gg. Dahlia, Tanjung Palas, Dumai Timur, Dumai City,
                 Riau 28816
               </p>
             </div>
